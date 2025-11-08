@@ -1,0 +1,12 @@
+# Host
+2025-11-07T22:13:34-05:00
+HOSTNAME: rocal
+
+## OS
+Distributor ID:	Ubuntu
+Description:	Ubuntu 22.04.5 LTS
+Release:	22.04
+Codename:	jammy
+
+## Kernel
+Linux rocal 5.15.0-161-generic #171-Ubuntu SMP Sat Oct 11 08:17:01 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux

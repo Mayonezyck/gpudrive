@@ -1,0 +1,4 @@
+# Environment Variables
+CONDA_PROMPT_MODIFIER=(py311) 
+CUDA_HOME=/usr/local/cuda-12.4
+LD_LIBRARY_PATH=/usr/local/cuda-12.4/lib64:

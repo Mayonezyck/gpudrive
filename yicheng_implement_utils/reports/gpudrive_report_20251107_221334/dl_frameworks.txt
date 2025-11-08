@@ -1,0 +1,8 @@
+# Torch/JAX probe
+torch: 2.9.0+cu128
+cuda.is_available: True
+cuda.device_count: 1
+current_device: 0
+get_device_name: NVIDIA GeForce RTX 4090
+jax: 0.4.26
+jax devices: [cuda(id=0)]
